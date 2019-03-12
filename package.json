@@ -1,0 +1,11 @@
+{
+    "name": "json-rules-engine-types",
+    "version": "0.0.1",
+    "description": "Type definitions for the json-rules-engine package",
+    "types": "./index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/meshhq/json-rules-engine-types.git"
+    },
+    "author": "Mesh Studio"
+}
